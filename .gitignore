@@ -1,0 +1,9 @@
+﻿.env
+__pycache__/
+*.pyc
+.venv/
+generated_charts/
+*.csv
+*.xlsx
+.vscode/
+*.log
